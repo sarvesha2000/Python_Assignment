@@ -1,3 +1,4 @@
+# 1. Write a program which accepts one number and checks whether it is prime or not.
 def CheckPrime(no):
     if no <= 1:
         print("Not a Prime Number")
